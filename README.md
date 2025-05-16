@@ -94,8 +94,8 @@ A FastAPI-based backend API for e-commerce administration, providing endpoints f
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd ecommerce_admin_api
+   git clone https://github.com/Rana-M-Usama/ecommerce-admin-api.git
+   cd ecommerce-admin-api
    ```
 
 2. Create and activate virtual environment:
